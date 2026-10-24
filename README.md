@@ -30,11 +30,11 @@ This repository follows a simple philosophy:
 - 📝 Maintain accurate and transparent UC Day activity documentation throughout the 89-day renewal cycle
 - 🌱 Support continuous learning through Microsoft 365 exploration, observation, research, and review activities
 - 📚 Develop and preserve knowledge through structured documentation, lessons learned, and activity summaries
-- 🐙 Maintain GitHub as the primary platform for activity tracking, documentation management, and learning records
-- ⚙️ Explore available Microsoft 365 services, tools, and platform capabilities within the current Developer Sandbox environment
-- 🔍 Evaluate workflows, processes, and technology-related ideas that contribute to personal learning and continuous improvement
+- 🐙 Maintain GitHub as the primary platform for activity tracking, documentation management, and knowledge preservation
+- ⚙️ Explore available Microsoft 365 services, tools, features, and platform capabilities within the current Developer Sandbox environment
+- 🔍 Review and evaluate processes, workflows, and technology-related concepts that support continuous learning and improvement
 - 🔄 Demonstrate consistent and legitimate Microsoft 365 Developer Sandbox engagement through documented activities and observations
-- 🚀 Promote sustainable progress by valuing learning quality, documentation quality, and long-term consistency over activity volume
+- 🚀 Promote sustainable progress through continuous learning, documentation, observation, and incremental improvement
 
 ---
 
