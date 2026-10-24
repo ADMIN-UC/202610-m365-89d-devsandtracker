@@ -111,3 +111,19 @@ The Developer Sandbox remains a dedicated environment for learning, observation,
 > 🚀 Consistency creates progress.
 
 ---
+
+
+## 📆 Activity Schedule
+
+Learning, documentation, observation, and Sandbox engagement activities are generally conducted during working days.
+
+- ✅ Monday to Friday – Active UC Day Activities
+- ⏸ Saturday – No Scheduled Activities
+- ⏸ Sunday – No Scheduled Activities
+- ⏸ Recognized Holidays – No Scheduled Activities
+
+When activities cannot be performed due to real-life responsibilities or scheduling constraints, repository updates may be completed at a later date while preserving the original UC Day chronology and historical timeline.
+
+Periods without activity may also be documented when appropriate, consistent with the repository's commitment to accurate and transparent activity tracking.
+
+---
