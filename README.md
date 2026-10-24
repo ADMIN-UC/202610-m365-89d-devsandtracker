@@ -85,7 +85,7 @@ Primary focus areas:
 - Documentation and knowledge development
 - Feature observation and platform evaluation
 - Process reviews and continuous improvement efforts
-- GitHub-based activity tracking and learning records
+- GitHub-based activity tracking, documentation management, and knowledge preservation
 - Experimentation within available Sandbox capabilities
 - Renewal-supporting engagement activities
 
