@@ -62,3 +62,33 @@ Lessons learned from the previous cycle continue to influence the documentation 
 This repository represents the next stage of that continuing journey.
 
 ---
+
+
+## 🏢 Environment Strategy
+
+To maintain clear boundaries between production responsibilities and learning activities, each Microsoft 365 environment serves a distinct purpose.
+
+### 💼 Commercial Tenant
+
+Primary focus areas:
+
+- Business operations and administrative activities
+- Production workloads and day-to-day productivity
+- Customer-facing and business-related services
+- Operational management and business continuity
+
+### 🧪 Developer Sandbox
+
+Primary focus areas:
+
+- Microsoft 365 learning and exploration
+- Documentation and knowledge development
+- Feature observation and platform evaluation
+- Process reviews and continuous improvement efforts
+- GitHub-based activity tracking and learning records
+- Experimentation within available Sandbox capabilities
+- Renewal-supporting engagement activities
+
+The Developer Sandbox remains a dedicated environment for learning, observation, documentation, and experimentation. While available services and platform capabilities may evolve over time, the focus of this repository remains on maintaining consistent engagement, continuous learning, and documented participation throughout the renewal cycle.
+
+---
