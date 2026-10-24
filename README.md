@@ -92,3 +92,22 @@ Primary focus areas:
 The Developer Sandbox remains a dedicated environment for learning, observation, documentation, and experimentation. While available services and platform capabilities may evolve over time, the focus of this repository remains on maintaining consistent engagement, continuous learning, and documented participation throughout the renewal cycle.
 
 ---
+
+
+## 📅 Current Renewal Cycle
+
+**Cycle Type:** Microsoft 365 Developer Program E5 Sandbox
+
+**Duration:** 89 Days
+
+**Repository Start:** October 2026
+
+**Tracking Method:** UC Day Activity Logs
+
+**Primary Goal:** Maintain consistent Microsoft 365 Developer Sandbox engagement through learning, documentation, observation, evaluation, and knowledge-development activities throughout the full 89-day renewal period.
+
+> 🌱 Every learning experience adds value.
+>
+> 🚀 Consistency creates progress.
+
+---
