@@ -2,15 +2,19 @@
 
 🌱 Microsoft 365 Developer Sandbox Learning & Activity Journal
 
-October 2026 • DEV 102 • 89-Day Renewable E5 Sandbox Cycle
+October 2026 • 89-Day Renewable E5 Sandbox Cycle
 
-Welcome to DEV 102.
+Welcome to a new Microsoft 365 Developer Sandbox renewal cycle.
 
-This repository documents the current Microsoft 365 Developer Sandbox renewal cycle and continues an ongoing commitment to learning, exploration, documentation, and responsible engagement within the Microsoft 365 ecosystem.
+This repository documents activities, observations, learning experiences, and documentation efforts performed throughout the current 89-day Microsoft 365 Developer Sandbox cycle.
 
-Unlike previous cycles that focused on transition and environment establishment, DEV 102 emphasizes consistency, continuous improvement, observation, and long-term learning. The repository serves as an activity journal that records real-world Microsoft 365 learning experiences, documented observations, process reviews, experimentation efforts, and renewal-supporting activities throughout the cycle.
+Building upon lessons learned from previous renewal cycles, this repository emphasizes continuous learning, honest activity tracking, sustainable engagement, and ongoing knowledge development within the Microsoft 365 ecosystem.
 
-All entries are intended to reflect actual activities performed during the reporting period and follow a simple philosophy:
+The repository serves as a living activity journal that captures real-world learning experiences, documented observations, process reviews, technology exploration, experimentation efforts, and renewal-supporting activities completed during the cycle.
+
+Activities may vary from hands-on exploration and documentation updates to research, observation, evaluation, planning, and reflective review sessions. All entries are intended to reflect actual activities performed during the reporting period.
+
+This repository follows a simple philosophy:
 
 > 📚 Document reality, not perfection.
 >
