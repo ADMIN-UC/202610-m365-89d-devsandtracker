@@ -127,3 +127,24 @@ When activities cannot be performed due to real-life responsibilities or schedul
 Periods without activity may also be documented when appropriate, consistent with the repository's commitment to accurate and transparent activity tracking.
 
 ---
+
+
+## 📌 Purpose
+
+- Maintain consistent and intentional Microsoft 365 Developer Sandbox engagement throughout the full 89-day renewal cycle
+
+- Document UC Day activities, learning experiences, technology exploration, and Sandbox engagement in a structured and transparent format
+
+- Build and maintain a centralized record of observations, reviews, research activities, and documented learning outcomes
+
+- Strengthen documentation practices, knowledge management, and long-term learning continuity through GitHub-based records
+
+- Support ongoing renewal readiness through active participation, repository maintenance, observation, evaluation, and documented progress
+
+- Preserve a historical record of activities, observations, lessons learned, and knowledge-development efforts throughout the current renewal cycle
+
+- Encourage continuous improvement through planning, review, evaluation, refinement, and ongoing learning initiatives
+
+- Maintain familiarity with Microsoft 365 technologies while developing sustainable habits for long-term platform engagement and future renewal cycles
+
+---
