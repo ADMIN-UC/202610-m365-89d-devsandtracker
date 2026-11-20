@@ -206,6 +206,14 @@ Periods without activity may also be documented when appropriate, consistent wit
 
 - UC Day 26 – 63 Days Remaining (November 18, 2026, Wednesday) – Status: Holiday (ASEAN) / No Activities
 
+- UC Day 27 – 62 Days Remaining (November 19, 2026, Thursday) – Status: Emergency Leave
+
+- UC Day 28 – 61 Days Remaining (November 20, 2026, Friday) 16:43 GMT+8 – Status: Documentation Update Only
+
+- UC Day 29 – 60 Days Remaining (November 21, 2026, Saturday) – Status: No Activities
+
+- UC Day 30 – 59 Days Remaining (November 22, 2026, Sunday) – Status: No Activities
+
 ---
 
 
