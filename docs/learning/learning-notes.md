@@ -176,3 +176,36 @@ The review confirmed that learning remains an active component of the renewal cy
 Future efforts should prioritize sustainable participation, practical learning opportunities, and consistent knowledge development while maintaining alignment with repository objectives.
 
 ---
+
+
+## November 26, 2026 – Microsoft Graph Foundations (Phase 1)
+
+### Overview
+
+The first phase of Microsoft Graph learning focused on understanding the purpose and importance of Microsoft Graph within the Microsoft 365 ecosystem.
+
+### Key Findings
+
+Microsoft Graph serves as Microsoft's unified API platform that provides access to data, resources, and services across Microsoft 365.
+
+Rather than interacting with individual Microsoft 365 services separately, Microsoft Graph provides a centralized interface that allows applications, automation tools, and administrators to access information through a common framework.
+
+### Observations
+
+Microsoft Graph can provide access to:
+
+- User information
+- Group information
+- Licensing information
+- Exchange Online resources
+- Entra ID resources
+- Calendar and mail data
+- Other Microsoft 365 services
+
+### Learning Outcome
+
+Microsoft Graph acts as a unified gateway to Microsoft 365 services and provides a foundation for automation, reporting, and administrative activities.
+
+Current Microsoft Graph learning activities remain possible even without access to SharePoint and OneDrive services.
+
+---
