@@ -777,3 +777,51 @@ The objective was to establish a clear understanding of Microsoft Graph before p
 ✅ Preparation completed for Microsoft Graph Phase 2
 
 ---
+
+
+### UC Day 35 – 53 Days Remaining (November 28, 2026, Saturday)
+
+- **Planned Date:** November 28, 2026 (53 days remaining)
+- **Actual Run:** November 28, 2026 00:12 GMT+8
+- **Status:** In Progress
+
+#### Summary
+
+UC Day 35 continued the Microsoft Graph learning journey through an introductory review of Microsoft Graph Explorer.
+
+The session focused on understanding the purpose of Microsoft Graph Explorer, its role within the Microsoft Graph ecosystem, and how it can be used as a learning and testing platform for exploring Microsoft 365 data and services through Microsoft Graph.
+
+Particular attention was given to understanding the relationship between Microsoft Graph and Graph Explorer, establishing a foundation for future learning activities involving Graph queries, permissions, authentication concepts, and practical Microsoft Graph exploration.
+
+#### Activities Completed
+
+- Continued Microsoft Graph learning activities
+- Reviewed Microsoft Graph Explorer fundamentals
+- Identified Graph Explorer as a Microsoft Graph learning and testing platform
+- Reviewed potential uses of Graph Explorer within Microsoft 365 environments
+- Documented initial observations related to Graph Explorer
+- Prepared for future Microsoft Graph query exploration activities
+
+#### Notes
+
+The session intentionally focused on introductory concepts and foundational knowledge.
+
+No Microsoft Graph queries, authentication activities, scripting activities, or implementation exercises were performed during this session.
+
+The objective was to establish a clear understanding of Graph Explorer before progressing to practical Microsoft Graph activities in future phases.
+
+#### Outcome
+
+✅ Microsoft Graph learning continued
+
+✅ Graph Explorer fundamentals reviewed
+
+✅ Initial observations documented
+
+✅ Learning foundation expanded
+
+✅ Future learning path validated
+
+✅ Preparation completed for practical Graph exploration activities
+
+---
