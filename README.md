@@ -222,9 +222,9 @@ Periods without activity may also be documented when appropriate, consistent wit
 
 - UC Day 34 – 55 Days Remaining (November 26, 2026, Thursday) 17:54 GMT+8 – Status: In Progress
 
-- UC Day 34 – 55 Days Remaining (November 27, 2026, Friday) – Status: No Activities
+- UC Day 34 – 54 Days Remaining (November 27, 2026, Friday) – Status: No Activities
 
-- UC Day 35 – 54 Days Remaining (November 28, 2026, Saturday) 00:12 GMT+8 – Status: In Progress
+- UC Day 35 – 53 Days Remaining (November 28, 2026, Saturday) 00:12 GMT+8 – Status: In Progress
 
 ---
 
