@@ -209,3 +209,32 @@ Microsoft Graph acts as a unified gateway to Microsoft 365 services and provides
 Current Microsoft Graph learning activities remain possible even without access to SharePoint and OneDrive services.
 
 ---
+
+
+## November 28, 2026 – Microsoft Graph Explorer Introduction (Phase 2)
+
+### Overview
+
+The second phase of Microsoft Graph learning focused on understanding Microsoft Graph Explorer and its role within the Microsoft Graph ecosystem.
+
+### Key Findings
+
+Microsoft Graph Explorer is a web-based tool that allows Microsoft Graph requests to be tested, reviewed, and explored without requiring custom application development.
+
+Graph Explorer provides a practical environment for learning Microsoft Graph APIs and understanding how Microsoft 365 data can be accessed through Graph requests.
+
+### Observations
+
+Microsoft Graph Explorer can be used to:
+
+- Test Microsoft Graph requests
+- Review Graph responses
+- Explore Microsoft 365 data structures
+- Learn API syntax
+- Understand Graph permissions and access models
+
+### Learning Outcome
+
+Microsoft Graph Explorer serves as a learning and testing platform that helps users understand Microsoft Graph capabilities before progressing to automation, PowerShell, application development, and advanced Graph activities.
+
+---
